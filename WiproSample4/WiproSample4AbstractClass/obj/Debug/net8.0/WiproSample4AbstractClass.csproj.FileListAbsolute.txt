@@ -1,0 +1,14 @@
+C:\Users\pinky\source\repos\WiproSample4\WiproSample4AbstractClass\bin\Debug\net8.0\WiproSample4AbstractClass.exe
+C:\Users\pinky\source\repos\WiproSample4\WiproSample4AbstractClass\bin\Debug\net8.0\WiproSample4AbstractClass.deps.json
+C:\Users\pinky\source\repos\WiproSample4\WiproSample4AbstractClass\bin\Debug\net8.0\WiproSample4AbstractClass.runtimeconfig.json
+C:\Users\pinky\source\repos\WiproSample4\WiproSample4AbstractClass\bin\Debug\net8.0\WiproSample4AbstractClass.dll
+C:\Users\pinky\source\repos\WiproSample4\WiproSample4AbstractClass\bin\Debug\net8.0\WiproSample4AbstractClass.pdb
+C:\Users\pinky\source\repos\WiproSample4\WiproSample4AbstractClass\obj\Debug\net8.0\WiproSample4AbstractClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pinky\source\repos\WiproSample4\WiproSample4AbstractClass\obj\Debug\net8.0\WiproSample4AbstractClass.AssemblyInfoInputs.cache
+C:\Users\pinky\source\repos\WiproSample4\WiproSample4AbstractClass\obj\Debug\net8.0\WiproSample4AbstractClass.AssemblyInfo.cs
+C:\Users\pinky\source\repos\WiproSample4\WiproSample4AbstractClass\obj\Debug\net8.0\WiproSample4AbstractClass.csproj.CoreCompileInputs.cache
+C:\Users\pinky\source\repos\WiproSample4\WiproSample4AbstractClass\obj\Debug\net8.0\WiproSample4AbstractClass.dll
+C:\Users\pinky\source\repos\WiproSample4\WiproSample4AbstractClass\obj\Debug\net8.0\refint\WiproSample4AbstractClass.dll
+C:\Users\pinky\source\repos\WiproSample4\WiproSample4AbstractClass\obj\Debug\net8.0\WiproSample4AbstractClass.pdb
+C:\Users\pinky\source\repos\WiproSample4\WiproSample4AbstractClass\obj\Debug\net8.0\WiproSample4AbstractClass.genruntimeconfig.cache
+C:\Users\pinky\source\repos\WiproSample4\WiproSample4AbstractClass\obj\Debug\net8.0\ref\WiproSample4AbstractClass.dll
