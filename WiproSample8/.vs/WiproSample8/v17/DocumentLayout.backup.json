@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pinky\\source\\repos\\WiproSample8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C0A274A3-4646-4F90-89AF-A46E4E6C001E}|TestXunitProject2\\TestXunitProject2.csproj|c:\\users\\pinky\\source\\repos\\wiprosample8\\testxunitproject2\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0A274A3-4646-4F90-89AF-A46E4E6C001E}|TestXunitProject2\\TestXunitProject2.csproj|solutionrelative:testxunitproject2\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E4BC840-D657-4D06-AC36-F8DE60EDACB9}|WiproSample8\\WiproSample8.csproj|c:\\users\\pinky\\source\\repos\\wiprosample8\\wiprosample8\\mathop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E4BC840-D657-4D06-AC36-F8DE60EDACB9}|WiproSample8\\WiproSample8.csproj|solutionrelative:wiprosample8\\mathop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D6CF161-1089-40AD-BC66-7360114E32B0}|TestNProject2\\TestNProject2.csproj|c:\\users\\pinky\\source\\repos\\wiprosample8\\testnproject2\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D6CF161-1089-40AD-BC66-7360114E32B0}|TestNProject2\\TestNProject2.csproj|solutionrelative:testnproject2\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4117485D-B56D-4743-961C-418056FAD2A8}|TestProject1\\TestProject1.csproj|c:\\users\\pinky\\source\\repos\\wiprosample8\\testproject1\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4117485D-B56D-4743-961C-418056FAD2A8}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E4BC840-D657-4D06-AC36-F8DE60EDACB9}|WiproSample8\\WiproSample8.csproj|c:\\users\\pinky\\source\\repos\\wiprosample8\\wiprosample8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E4BC840-D657-4D06-AC36-F8DE60EDACB9}|WiproSample8\\WiproSample8.csproj|solutionrelative:wiprosample8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\pinky\\source\\repos\\WiproSample8\\TestXunitProject2\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TestXunitProject2\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\pinky\\source\\repos\\WiproSample8\\TestXunitProject2\\UnitTest1.cs*",
+              "RelativeToolTip": "TestXunitProject2\\UnitTest1.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAywA0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T06:29:59.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\pinky\\source\\repos\\WiproSample8\\TestNProject2\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TestNProject2\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\pinky\\source\\repos\\WiproSample8\\TestNProject2\\UnitTest1.cs",
+              "RelativeToolTip": "TestNProject2\\UnitTest1.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwDQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T05:59:46.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Test1.cs",
+              "DocumentMoniker": "C:\\Users\\pinky\\source\\repos\\WiproSample8\\TestProject1\\Test1.cs",
+              "RelativeDocumentMoniker": "TestProject1\\Test1.cs",
+              "ToolTip": "C:\\Users\\pinky\\source\\repos\\WiproSample8\\TestProject1\\Test1.cs",
+              "RelativeToolTip": "TestProject1\\Test1.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T05:52:35.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MathOP.cs",
+              "DocumentMoniker": "C:\\Users\\pinky\\source\\repos\\WiproSample8\\WiproSample8\\MathOP.cs",
+              "RelativeDocumentMoniker": "WiproSample8\\MathOP.cs",
+              "ToolTip": "C:\\Users\\pinky\\source\\repos\\WiproSample8\\WiproSample8\\MathOP.cs",
+              "RelativeToolTip": "WiproSample8\\MathOP.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAswBIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T05:43:23.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pinky\\source\\repos\\WiproSample8\\WiproSample8\\Program.cs",
+              "RelativeDocumentMoniker": "WiproSample8\\Program.cs",
+              "ToolTip": "C:\\Users\\pinky\\source\\repos\\WiproSample8\\WiproSample8\\Program.cs",
+              "RelativeToolTip": "WiproSample8\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T05:36:36.164Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
